@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img alt="Kalvium" src="https://kalvium.community/images/sidebar-2d-logo.svg" width="80"/> Kalvium
 
 ---
@@ -139,3 +140,6 @@ For local development we should have the following dependencies set up locally i
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+=======
+# KalviumCompany_Compilerd_Task
+>>>>>>> 07b94ab1ab7bbde4e8c0f0b4f5a6118a580b4cff
