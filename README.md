@@ -130,6 +130,8 @@ I have executed the following additional test cases for each language:
 
 # <img alt="Output1" src="https://github.com/Snehalatha14/KalviumCompany_Compilerd_Task/blob/main/Testcase1.jpg" width="100"/> 
 
+# <img alt="output" src="https://github.com/Snehalatha14/KalviumCompany_Compilerd_Task/blob/main/Testcase2.jpg" width="100"/>
+
 
 
 
