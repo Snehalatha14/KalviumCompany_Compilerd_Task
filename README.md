@@ -128,7 +128,7 @@ I have executed the following additional test cases for each language:
 
 ### Outputs For Excuted Test cases
 
-# <img alt="Kalvium" src="https://github.com/Snehalatha14/KalviumCompany_Compilerd_Task/blob/main/Testcase1.jpg" width="80"/> Kalvium
+# <img alt="Output1" src="https://github.com/Snehalatha14/KalviumCompany_Compilerd_Task/blob/main/Testcase1.jpg" width="100"/> 
 
 
 
