@@ -112,34 +112,22 @@ For local development we should have the following dependencies set up locally i
     - ```docker run -p 3000:3000 -e OPENAI_API_KEY=<your-api-key> -e ALLOWED_RAM=<allowed-ram-value> <image-name>```
   - Execute the test script by running command ```node ./tests/test.js```
   - Summary can be seen on the console when all the tests have finished.
+---------
+###  TASK
+
+####  I Implement The Test Cases -  Add in significantly more test cases that we may have missed
+
+I have executed the following additional test cases for each language:
+
+- **C Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
+- **CPP Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
+- **Python Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
+- **Java Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
+- **Node.js Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
 
 
 
-### Guidelines :
- - Provide Detailed Pull Requests
-   - Clearly describe the problem you're solving or the feature you're adding
-   - Provide context, background, and any relevant information
- - Adhere to the project's coding standards and style guides
- - Update documentation as needed for your changes
-   - Ensure that your code is well-documented and easy for others to understand
- - Ensure that your contributions are well-tested
- - Maintain consistency with the existing codebase
 
 
 
-<!-- LICENSE -->
-## License : 
 
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-=======
-# KalviumCompany_Compilerd_Task
->>>>>>> 07b94ab1ab7bbde4e8c0f0b4f5a6118a580b4cff
