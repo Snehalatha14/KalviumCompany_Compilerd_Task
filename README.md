@@ -123,6 +123,7 @@ I have executed the following additional test cases for each language:
 - **CPP Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
 - **Python Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
 - **Java Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
+-  **Ruby Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
 - **Node.js Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
 
 
