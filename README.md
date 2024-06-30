@@ -126,6 +126,10 @@ I have executed the following additional test cases for each language:
 -  **Ruby Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
 - **Node.js Language:** Runtime Error, Division by Zero, Syntax Error, File Not Found, Memory Limit Exceeded
 
+### Outputs For Excuted Test cases
+
+# <img alt="Kalvium" src="https://github.com/Snehalatha14/KalviumCompany_Compilerd_Task/blob/main/Testcase1.jpg" width="80"/> Kalvium
+
 
 
 
